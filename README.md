@@ -1,4 +1,5 @@
-### Hi there 👋
+### Who am I?
+I am Federico Ziegler and I am a software developer passionate about object-oriented programming.
 
 ### My Info 💼
 

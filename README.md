@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I recently obtained a Bachelor's degree in Computer Science (Informatica), at "La Sapienza - Università di Roma", Rome.
+
+- 🌱 I’m currently learning Spring, Angular, JavaScript / TypeScript.
+- 🔭 I’m currently working on different projects using different programming languages [Java with Spring, GDScript inside Godot Engine]
+
+- 📜 I worked on several projects during my university career.
+- 📚 Programming languages that I know / used in the past: Java, Python, GDScript
+
+
+
 <!--
 **fedex2118/fedex2118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

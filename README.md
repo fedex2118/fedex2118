@@ -3,11 +3,14 @@
 ### My Info 💼
 
 - 🎓 I recently obtained a Bachelor's degree in Computer Science (Informatica), at "La Sapienza - Università di Roma", Rome.
+  
 - 🌱 I’m currently learning Spring, Angular, JavaScript / TypeScript.
-- 🔭 I’m currently working on different projects using different programming languages [Java with Spring, GDScript inside Godot Engine] and databases [MySQL]
+  
+- 🔭 I’m currently working on different projects using different programming languages [Java with Spring, GDScript inside Godot Engine] and databases [MySQL].
+  
+- 📚 Programming languages that I know / used in the past: Java, Python, GDScript.
 
-- 📜 I worked on several projects during my university career (most important ones are pinned below).
-- 📚 Programming languages that I know / used in the past: Java, Python, GDScript
+- 📜 I've worked on several projects during my university career (most important ones are pinned below).
 
 ### Where do I want to work?
 

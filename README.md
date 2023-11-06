@@ -18,7 +18,7 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
 - 🏢 I would love to work as a back-end developer and I'm learning/know some of front-end side to apply also for fullstack positions.
 
 
-### Contacts
+### How to reach me:
 - 📫 E-mail: fede-2118@hotmail.com
 - 📫 Phone number: +39 327 211 7012
 

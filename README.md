@@ -15,7 +15,7 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
 
 ### Where do I want to work?
 
-- 🏢 I would love to work as a back-end developer and I'm learning the front-end side to apply also for fullstack positions.
+- 🏢 I would love to work as a back-end developer and I'm learning/know some of front-end side to apply also for fullstack positions.
 
 
 

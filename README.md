@@ -7,11 +7,15 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
   
 - 🌱 I’m currently learning Spring, Angular, JavaScript / TypeScript.
   
-- 🔭 I’m currently working on different projects using different programming languages [Java with Spring, GDScript inside Godot Engine] and databases [MySQL].
+- 🔭 I’m currently working on different projects using different programming languages [Java with Spring, GDScript inside Godot Engine] and databases [MySQL, SqlDeveloper].
   
-- 📚 Programming languages that I know / used in the past: Java, Python, GDScript.
+- 📚 Programming languages that I know / used in the past: <u>Java, Python</u>, GDScript.
 
-- 📜 I've worked on several projects during my university career (most important ones are pinned below).
+- 📜 I've worked on several projects during my university career and on free time (most important ones are pinned below).
+
+- 💻 Personal favourite IDEs I'm using / I've used in the past:  VS Code, IntelliJ Idea, Eclipse, Spyder.
+
+- 🔧 Tools I've been using : Postman, Fork, Gitlab, OpenLens (free edition), Swagger (Springfox).
 
 ### Where do I want to work?
 

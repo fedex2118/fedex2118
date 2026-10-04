@@ -4,8 +4,10 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
 ### My Info 💼
 
 - 🎓 I recently obtained a Bachelor's degree in Computer Science and I'm currently finishing a Master's degree in Computer Science, at "La Sapienza - Università di Roma", Rome.
+
+- 💼 I’ve worked for several companies in Italy, primarily as a back-end developer using Java, while also gaining experience in front-end development, AI-assisted development, and application deployment.
   
-- 🌱 I’m currently learning how to use AI effectively while further developing my Angular skills.
+- 🌱 I’m currently learning how to use AI effectively while also improving on Angular.
   
 - 🔭 I’m currently working on the Master's degree thesis.
   
@@ -19,7 +21,7 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
 
 ### Where do I want to work?
 
-- 🏢 I would love to work as a back-end developer and I'm learning/know some of front-end side to apply also for fullstack positions.
+- 🏢 I started my career as a back-end developer, and I want to continue growing as a software engineer, with a stronger focus on full-stack development and end-to-end software delivery. Since software development is becoming increasingly AI-driven, I'm particularly interested in using AI as part of the development process while remaining closely involved in designing, building, and delivering software products.
 
 
 ### How to reach me:

@@ -3,11 +3,11 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
 
 ### My Info 💼
 
-- 🎓 I recently obtained a Bachelor's degree in Computer Science (Informatica), at "La Sapienza - Università di Roma", Rome.
+- 🎓 I recently obtained a Bachelor's degree in Computer Science and I'm currently finishing a Master's degree in Computer Science, at "La Sapienza - Università di Roma", Rome.
   
-- 🌱 I’m currently learning Spring, Angular, JavaScript / TypeScript.
+- 🌱 I’m currently learning how to use AI effectively while further developing my Angular skills.
   
-- 🔭 I’m currently working on different projects using different programming languages [Java with SpringBoot, GDScript inside Godot Engine] and for relational databases [MySQL, SqlDeveloper].
+- 🔭 I’m currently working on the Master's degree thesis.
   
 - 📚 Programming languages that I know / used in the past: <u>Java, Python</u>, GDScript.
 
@@ -15,7 +15,7 @@ I am Federico Ziegler and I am a software developer passionate about object-orie
 
 - 💻 Personal favourite IDEs I'm using / I've used in the past:  VS Code, IntelliJ Idea, Eclipse, Spyder.
 
-- 🔧 Tools I've been using : Postman, Fork, Gitlab, OpenLens (free edition), Swagger (Springfox), Sql-Workbench, ORACLE-SQLDeveloper.
+- 🔧 Tools I've been using : Postman, Fork, Gitlab, OpenLens (free edition), Swagger (Springfox/Springdoc), Sql-Workbench, ORACLE-SQLDeveloper.
 
 ### Where do I want to work?
 
